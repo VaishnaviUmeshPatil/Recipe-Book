@@ -1,11 +1,11 @@
 # Recipe-Book
 
-🍽️ Recipe Book Website
+# Recipe Book Website
 
 A simple and beautiful Recipe Book Website built using HTML and CSS.
 It showcases different recipes with appealing layouts, making it easy for users to explore and learn new dishes.
 
-🚀 Features
+# Features
 
 Responsive and clean design
 
